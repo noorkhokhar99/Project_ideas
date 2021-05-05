@@ -149,3 +149,69 @@ Project Idea | (Model based Image Compression of Medical Images)
 Project Idea | Motion detection using Background Subtraction Techniques
 
 Project Idea | (Optimization of Object-Based Image Analysis with Super-Pixel for Land Cover Mapping)
+
+
+Make Notepad using Tkinter
+
+Color game using Tkinter in Python
+
+Python | Message Encode-Decode using Tkinter
+
+XML parsing in Python
+
+Desktop Notifier in Python
+
+Hangman Game in Python
+
+Junk File Organizer in Python
+
+Browser Automation Using Selenium
+
+Tracking bird migration using Python-3
+
+Twitter Sentiment Analysis using Python
+
+Image Classifier using CNN
+
+Implementing Photomosaics
+
+Working with Images in Python
+
+OpenCV Python Program to blur an image
+
+Opencv Python program for Face Detection
+
+Cartooning an Image using OpenCV – Python
+
+OpenCV Python Program to analyze an image using Histogram
+
+OpenCV Python program for Vehicle detection in a Video frame
+
+DNA to Protein in Python 3
+
+Viruses – From Newbie to pro
+
+Handling Ajax request in Django
+
+Working with zip files in Python
+
+Morse Code Translator In Python
+
+Simple Chat Room using Python
+
+Creating a Proxy Webserver in Python | Set 1
+
+Creating a Proxy Webserver in Python | Set 2
+
+Project Idea | Audio to Sign Language Translator
+
+Understanding Code Reuse and Modularity in Python 3
+
+Multi-Messenger : A python project, messaging via Terminal
+
+Movie recommendation based on emotion in Python
+
+Implementing Web Scraping in Python with BeautifulSoup
+
+Computer Vision module application for finding a target in a live camera
+
